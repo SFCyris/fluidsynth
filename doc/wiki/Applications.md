@@ -52,6 +52,7 @@ Feel free to add your application to this page if it *uses* FluidSynth. For musi
   * [ScoreDate](https://github.com/shlomiv/ScoreDate) - open source software written in Java that helps musicians to learn music reading and ear training. 
   * [ScummVM](http://www.scummvm.org/) - program which allows you to run certain classic graphical point-and-click adventure games. 
   * [Simutrans](https://www.simutrans.com/en/) - this game is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions by building a transport network.
+  * [SoniqBoom](https://github.com/SFCyris/SoniqBoom) - Self-hosted music streaming for your personal library: FLAC, ALAC, MP3, Opus, plus SID and 20+ tracker formats (MOD, S3M, XM, IT…) most players ignore. This server doesn't choke on your 250k-track library. 
   * [SoundFont-Midi-Player](https://play.google.com/store/apps/details?id=org.greh.soundfontmidiplayer) - Android MIDI player app with fast switching of SoundFont files. 
   * [Swami](https://github.com/swami/swami) - collection of software projects for editing and sharing instruments by Josh Green. 
   * [The Miditzer](https://miditzer.org/) - computer program for PC's that lets you recreate a Wurlitzer Style 216 theater organ. 
